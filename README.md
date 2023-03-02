@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**Ireneh-Michael/Ireneh-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**_Here are some ideas to get you started_**
 
 - 🔭 I’m currently working on upskilling my technical skill in Data Analysis 
 - 🌱 I’m currently learning learning Data Analysis in NG30 days of learning
