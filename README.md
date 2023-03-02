@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/simi_now
 - 😄 Pronouns: (ME/HIM/HIS)
 - ⚡ Fun fact: Inspired by only what i see in my immediate environment
-![]()
+
+![] (Ireneh-Michael.jpeg)
