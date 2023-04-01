@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**_Here are some ideas to get you started_**
+**_Hi, My name is Mopelade. A Data Analyst who enjoys working with Excel and Sql And with data Visualization tools like PowerBi. Connect with me on Linkedin www.linkedin.com/in/
+michael-ireneh-300626153
+_**
 
 - 🔭 I’m currently working on upskilling my technical skill in Data Analysis 
 - 🌱 I’m currently learning learning Data Analysis in NG30 days of learning
