@@ -1,6 +1,6 @@
 ### Hi Techies 👋                         
                                                                                                                                          
-**_Hi, My name is Ireneh Michael. A Data Analyst who enjoys working with SPSS, MiniTab, Tableau, Excel, Sql and with data Visualization tools like PowerBi. Connect with me on Linkedin www.linkedin.com/in/michael-ireneh-300626153_**
+**_Hi, My name is Ireneh Michael. A Data Analyst who enjoys working with SPSS, MiniTab, Tableau, Excel, Sql and with data Visualization tools like Power BI. Connect with me on Linkedin www.linkedin.com/in/michael-ireneh-300626153_**
 
 - 🔭 I’m currently working on upskilling my technical skill in Data Analysis 
 - 🌱 I’m currently learning learning Data Analysis in NG30 days of learning
